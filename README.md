@@ -4,5 +4,6 @@
 
 ## Temario
 
+- [Introducción al Machine Learning](DOC/00-Machine_Learning.pdf)
 - [Instalación de Python y Jupyter Notebooks](DOC/01-Instalacion_de_Python_y_Jupyter_Notebooks.md)
 - [El primer Notebook](DOC/02-El_primer_notebook.md)

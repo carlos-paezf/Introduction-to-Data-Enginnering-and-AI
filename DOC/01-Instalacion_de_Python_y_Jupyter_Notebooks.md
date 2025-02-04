@@ -50,4 +50,4 @@ Si estás usando la GUI de Jupyter que se abrió mediante el comando anterior, p
 
 |Anterior||Siguiente|
 |--------|-|---------|
-||[README](../README.md)|[El primer Notebook](./02-El_primer_notebook.md)|
+|[Introducción al Machine Learning](./00-Machine_Learning.pdf)|[README](../README.md)|[El primer Notebook](./02-El_primer_notebook.md)|
