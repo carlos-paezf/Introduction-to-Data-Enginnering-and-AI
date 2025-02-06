@@ -50,4 +50,4 @@ Si por algún motivo no puedes usar Jupyter en tu equipo, puedes usar una herram
 
 |Anterior||Siguiente|
 |--------|-|---------|
-|[Instalación de Python y Jupyter Notebooks](./01-Instalacion_de_Python_y_Jupyter_Notebooks.md)|[README](../README.md)|[Introducción a Python cómo lenguaje de programación](./03-Introduccion_a_Python_como_lenguaje_de_programacion.md)|
+|[El primer Notebook](./02-El_primer_notebook.md)|[README](../README.md)|[Algoritmos, Pseudocódigo y Diagramas de Flujo](./03-Algoritmos_Peudocodigo_y_Diagramas_de_Flujo.md)|

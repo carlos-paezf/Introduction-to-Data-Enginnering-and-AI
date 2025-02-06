@@ -7,3 +7,5 @@
 - [Introducción al Machine Learning](DOC/00-Machine_Learning.pdf)
 - [Instalación de Python y Jupyter Notebooks](DOC/01-Instalacion_de_Python_y_Jupyter_Notebooks.md)
 - [El primer Notebook](DOC/02-El_primer_notebook.md)
+- [Algoritmos, Pseudocódigo, y Diagramas de Flujo](DOC/03-Algoritmos_Peudocodigo_y_Diagramas_de_Flujo.md)
+- [Introducción a Python cómo lenguaje de programación](DOC/04-Introduccion_a_Python_como_lenguaje_de_programacion.md)
