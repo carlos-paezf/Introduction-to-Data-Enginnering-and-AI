@@ -95,7 +95,7 @@ Inicio
         Escribir **a**
         temp := a + b
         a := b
-        b := c
+        b := temp
     FinPara
 Fin
 ```
