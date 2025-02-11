@@ -137,4 +137,4 @@ Un **diagrama de flujo** es una representación gráfica de un algoritmo mediant
 
 |Anterior||Siguiente|
 |--------|-|---------|
-|[Instalación de Python y Jupyter Notebooks](./01-Instalacion_de_Python_y_Jupyter_Notebooks.md)|[README](../README.md)|[Introducción a Python cómo lenguaje de programación](DOC/04-Introduccion_a_Python_como_lenguaje_de_programacion.md)|
+|[Instalación de Python y Jupyter Notebooks](./01-Instalacion_de_Python_y_Jupyter_Notebooks.md)|[README](../README.md)|[Introducción a Python cómo lenguaje de programación](./04-Estructuras_de_datos.md)|
